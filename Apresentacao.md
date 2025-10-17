@@ -20,7 +20,7 @@ Ela apresenta **cartões segmentados por faixa etária** dos clientes, além de 
 
 Iniciando a análise, tem-se o visual do Power BI apresentando informações que permitem compreender o **perfil demográfico e comportamental dos consumidores**, facilitando a identificação de padrões iniciais de compra e preferências.  
 
-```markdown
+
 <div align="center">
 
 <img src="imagens\imagem1.png.png" alt="Dashboard Power BI – Comportamentos de Compra" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
