@@ -50,10 +50,10 @@ SET Age_Group = CASE
     WHEN Age BETWEEN 61 AND 65 THEN '61-65'
     ELSE '66+' 
 END;
-
+```
     Após a adição da coluna e verificação dos dados, os registros foram importados para o Power BI para a elaboração dos visuais.
     Código DAX utilizado para contar clientes por faixa etária
-
+```
     Contagem de Age_Group para 18-25 = 
 CALCULATE(
 	COUNTA('vw_clientes_limpos'[Age_Group]),
