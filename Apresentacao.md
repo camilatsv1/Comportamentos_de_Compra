@@ -21,4 +21,4 @@ Ela apresenta **cartões segmentados por faixa etária** dos clientes, além de 
 Iniciando a análise, tem-se o visual do Power BI apresentando informações que permitem compreender o **perfil demográfico e comportamental dos consumidores**, facilitando a identificação de padrões iniciais de compra e preferências.  
 
 ```markdown
-![Dashboard Preview](imagens\imagem1.png.png)
+![Dashboard Preview](imagens/imagem1.png.png)
