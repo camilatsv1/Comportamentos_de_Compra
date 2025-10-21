@@ -40,11 +40,13 @@ Após a criação da coluna e a verificação de consistência dos dados, o conj
 
 ### Código DAX utilizado para contagem de clientes por faixa etária
 
+```
 Contagem de Age_Group para 18-25 = 
 CALCULATE(
     COUNTA('vw_clientes_limpos'[Age_Group]),
     'vw_clientes_limpos'[Age_Group] IN { "18-25" }
 )
+```
 
 Com as medidas criadas, iniciou-se a elaboração dos visuais de cartões que apresentam o total de clientes por faixa etária, permitindo compreender rapidamente a distribuição do público analisado.
 
