@@ -13,28 +13,12 @@ O conjunto de dados trouxe informações como:
 * **Comportamento de compra** (frequência de compras, compras anteriores, status da assinatura, uso de descontos, códigos promocionais)
 * **Comentários do cliente** (avaliações de avaliações)
 
-## Preview do Dashboard  
+## Limpeza dos Dados
 
-Abaixo está a primeira visualização desenvolvida no Power BI.  
-Ela apresenta **cartões segmentados por faixa etária** dos clientes, além de **gráficos de percentual de gênero**, **status de assinatura** e **total de vendas por tamanho de produto**.  
+O conjunto de dados foi inicialmente tratado no **MySQL**, onde foram realizadas etapas de **limpeza, verificação de dados nulos** e **contagem de categorias** em cada coluna.  
+Durante essa fase, também foi criada a nova coluna **Age_Group**, responsável por agrupar os clientes em **faixas etárias**, facilitando as análises posteriores no Power BI.
 
-Iniciando a análise, tem-se o visual do Power BI apresentando informações que permitem compreender o **perfil demográfico e comportamental dos consumidores**, facilitando a identificação de padrões iniciais de compra e preferências.  
-
-
-<div align="center">
-
-<img src="imagens\imagem1.png.png" alt="Dashboard Power BI – Comportamentos de Compra" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
-
-<p><i>Figura 1 – Visual principal do Dashboard Power BI com segmentação por faixa etária, gênero e vendas por tamanho.</i></p>
-
-</div>
-
-## Análise de Faixas Etárias dos Clientes
-
-Nos **cartões do dashboard** é possível observar o número total de clientes para cada faixa etária.  
-A divisão das faixas etárias foi realizada previamente no **MySQL**, assim como as visualizações iniciais e limpezas necessárias dos dados.
-
-### Código SQL utilizado para criar a coluna `Age_Group`
+### Código SQL utilizado
 
 ```sql
 UPDATE comportamentos_de_compra
@@ -51,14 +35,30 @@ SET Age_Group = CASE
     ELSE '66+' 
 END;
 ```
-    Após a adição da coluna e verificação dos dados, os registros foram importados para o Power BI para a elaboração dos visuais.
-    Código DAX utilizado para contar clientes por faixa etária
-```
-    Contagem de Age_Group para 18-25 = 
+
+Após a criação da coluna e a verificação de consistência dos dados, o conjunto foi importado para o Power BI, onde foram desenvolvidas as primeiras visualizações. Para isso foram criadas medidas com contagem de clientes por faixa etária com o seguinte código DAX:
+
+### Código DAX utilizado para contagem de clientes por faixa etária
+
+Contagem de Age_Group para 18-25 = 
 CALCULATE(
-	COUNTA('vw_clientes_limpos'[Age_Group]),
-	'vw_clientes_limpos'[Age_Group] IN { "18-25" }
+    COUNTA('vw_clientes_limpos'[Age_Group]),
+    'vw_clientes_limpos'[Age_Group] IN { "18-25" }
 )
 
-Com as medidas adicionadas, iniciou-se a elaboração do visual de cartões por faixa etária, conforme é possível visualizar na imagem acima.
-Essa abordagem permite identificar rapidamente a distribuição de clientes por idade, oferecendo insights valiosos para análises subsequentes.
+Com as medidas criadas, iniciou-se a elaboração dos visuais de cartões que apresentam o total de clientes por faixa etária, permitindo compreender rapidamente a distribuição do público analisado.
+
+## Visualizar do Painel
+
+Abaixo está a primeira visualização desenvolvida no Power BI.
+Ela apresenta cartões segmentados por faixa etária dos clientes, além de gráficos de percentual de gênero , status de assinatura e total de vendas por tamanho de produto .
+
+<div align="center">
+
+<img src="imagens\imagem1.png.png" alt="Dashboard Power BI – Comportamentos de Compra" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
+
+<p><i>Figura 1 – Visual principal do Dashboard Power BI com segmentação por faixa etária, gênero, status de assinatura e vendas por tamanho.</i></p>
+
+</div>
+
+Iniciando a análise, tem-se o visual do Power BI apresentando informações que permitem compreender o perfil demográfico e comportamental dos consumidores , facilitando a identificação de padrões iniciais de compras e preferências.
