@@ -75,3 +75,9 @@ Logo após, vêm os clientes de **26 a 30 anos (378 clientes)**, seguidos pelas 
 As faixas de **31 a 35 anos (364 clientes)** e **36 a 40 anos (361 clientes)** mantêm uma leve redução, enquanto o grupo de **66 a 70 anos** apresenta o **menor volume de compradores**, com **355 clientes**.
 
 De forma geral, nota-se uma **maior concentração de clientes nas idades jovens e intermediárias**, com uma **tendência de queda gradual** nas faixas etárias mais elevadas.
+
+O **primeiro gráfico** apresenta a **distribuição percentual de clientes por gênero**, revelando que **68% dos compradores são homens** e **32% são mulheres**.  
+
+Essa diferença indica uma **maior predominância do público masculino** entre os consumidores, sugerindo a oportunidade de **analisar as preferências desse grupo** para aprimorar a experiência de compra e potencializar as vendas.  
+
+Ao mesmo tempo, o dado também destaca a importância de **investigar possíveis barreiras** que estejam impactando a participação feminina, de forma a **desenvolver estratégias mais inclusivas** e **estimular o engajamento do público feminino** na plataforma.
