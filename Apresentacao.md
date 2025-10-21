@@ -64,3 +64,14 @@ Ela apresenta cartões segmentados por faixa etária dos clientes, além de grá
 </div>
 
 Iniciando a análise, tem-se o visual do Power BI apresentando informações que permitem compreender o perfil demográfico e comportamental dos consumidores , facilitando a identificação de padrões iniciais de compras e preferências.
+
+Os **cartões do dashboard** apresentam o **total de clientes distribuídos por faixa etária**.  
+Observa-se que a **faixa de 18 a 25 anos** concentra o **maior número de clientes**, totalizando **571 pessoas**.  
+É importante destacar que essa é também a **faixa etária com maior amplitude (8 anos)**, o que pode ter contribuído para o número mais elevado de registros.
+
+Em seguida, as faixas de **46 a 50 anos** e **56 a 60 anos** apresentam a **mesma contagem total de 382 clientes cada**, configurando-se juntas como o **segundo maior grupo** em número de consumidores.  
+Logo após, vêm os clientes de **26 a 30 anos (378 clientes)**, seguidos pelas faixas de **51 a 55 anos (371 clientes)**, **41 a 45 anos (368 clientes)** e **61 a 65 anos (368 clientes)** — mostrando uma distribuição relativamente equilibrada entre essas idades intermediárias.
+
+As faixas de **31 a 35 anos (364 clientes)** e **36 a 40 anos (361 clientes)** mantêm uma leve redução, enquanto o grupo de **66 a 70 anos** apresenta o **menor volume de compradores**, com **355 clientes**.
+
+De forma geral, nota-se uma **maior concentração de clientes nas idades jovens e intermediárias**, com uma **tendência de queda gradual** nas faixas etárias mais elevadas.
