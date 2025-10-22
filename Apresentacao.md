@@ -65,7 +65,7 @@ Ela apresenta cartões segmentados por faixa etária dos clientes, além de grá
 
 Iniciando a análise, tem-se o visual do Power BI apresentando informações que permitem compreender o perfil demográfico e comportamental dos consumidores , facilitando a identificação de padrões iniciais de compras e preferências.
 
-#### Cartões
+### Cartões
 
 Os **cartões do dashboard** apresentam o **total de clientes distribuídos por faixa etária**.  
 Observa-se que a **faixa de 18 a 25 anos** concentra o **maior número de clientes**, totalizando **571 pessoas**.  
@@ -78,7 +78,7 @@ As faixas de **31 a 35 anos (364 clientes)** e **36 a 40 anos (361 clientes)** m
 
 De forma geral, nota-se uma **maior concentração de clientes nas idades jovens e intermediárias**, com uma **tendência de queda gradual** nas faixas etárias mais elevadas.
 
-#### Percentual de Gênero
+### Percentual de Gênero
 
 O **primeiro gráfico** apresenta a **distribuição percentual de clientes por gênero**, revelando que **68% dos compradores são homens** e **32% são mulheres**.  
 
@@ -86,7 +86,7 @@ Essa diferença indica uma **maior predominância do público masculino** entre 
 
 Ao mesmo tempo, o dado também destaca a importância de **investigar possíveis barreiras** que estejam impactando a participação feminina, de forma a **desenvolver estratégias mais inclusivas** e **estimular o engajamento do público feminino** na plataforma.
 
-#### Status de Assinatura
+### Status de Assinatura
 
 O **gráfico de Status de Assinatura** revela que apenas **27% dos clientes possuem assinatura ativa**, enquanto **73% não são assinantes**.  
 
