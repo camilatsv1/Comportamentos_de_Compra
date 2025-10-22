@@ -118,3 +118,11 @@ Nela, são exibidos **gráficos sobre o percentual de desconto aplicado**, **mé
 
 </div>
 
+### Percentual de Desconto
+
+O gráfico demonstra que **43% dos clientes realizaram suas compras utilizando cupons de desconto ativos**, o que indica uma **alta sensibilidade a promoções** e o potencial impacto das **estratégias de incentivo ao consumo**.  
+É provável que dentro desse grupo estejam incluídos os **27% de assinantes da plataforma**, que podem usufruir de **benefícios e descontos exclusivos**.  
+
+Por outro lado, **57% dos consumidores concluíram suas compras sem utilizar nenhum tipo de desconto**, o que abre espaço para **estratégias de fidelização**.  
+A empresa pode, por exemplo, **oferecer cupons personalizados ou benefícios progressivos** para estimular novas compras e **incentivar a adesão ao plano de assinatura**.  
+Essa abordagem permite equilibrar o volume de vendas com políticas de desconto sustentáveis, mantendo a margem de lucro e ampliando a base de clientes fiéis.
