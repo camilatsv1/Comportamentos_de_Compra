@@ -118,7 +118,7 @@ Nela, são exibidos **gráficos sobre o percentual de desconto aplicado**, **mé
 
 </div>
 
-### Percentual de Desconto
+### Percentual de Desconto Aplicado
 
 O gráfico demonstra que **43% dos clientes realizaram suas compras utilizando cupons de desconto ativos**, o que indica uma **alta sensibilidade a promoções** e o potencial impacto das **estratégias de incentivo ao consumo**.  
 É provável que dentro desse grupo estejam incluídos os **27% de assinantes da plataforma**, que podem usufruir de **benefícios e descontos exclusivos**.  
@@ -126,3 +126,14 @@ O gráfico demonstra que **43% dos clientes realizaram suas compras utilizando c
 Por outro lado, **57% dos consumidores concluíram suas compras sem utilizar nenhum tipo de desconto**, o que abre espaço para **estratégias de fidelização**.  
 A empresa pode, por exemplo, **oferecer cupons personalizados ou benefícios progressivos** para estimular novas compras e **incentivar a adesão ao plano de assinatura**.  
 Essa abordagem permite equilibrar o volume de vendas com políticas de desconto sustentáveis, mantendo a margem de lucro e ampliando a base de clientes fiéis.
+
+### Percentual de Métodos de Pagamento
+
+O gráfico de **métodos de pagamento** revela uma **distribuição equilibrada** entre as formas disponíveis, demonstrando que os clientes utilizam **diferentes alternativas de acordo com conveniência e preferência pessoal**.  
+O **PayPal** aparece como o método mais utilizado, com **17,36%** das transações — reflexo de sua **segurança, praticidade e integração com plataformas digitais**. Logo em seguida estão o **cartão de crédito (17,21%)** e o **pagamento em dinheiro (17,18%)**, mostrando que, embora os meios digitais dominem, **formas tradicionais de pagamento ainda mantêm relevância significativa**.  
+
+O **cartão de débito (16,31%)** surge como outra opção importante para compras à vista, enquanto o **Venmo (16,26%)** — aplicativo móvel pertencente ao próprio PayPal — demonstra **adesão crescente de consumidores habituados a soluções de pagamento por smartphone**.  
+Por fim, a **transferência bancária (15,69%)** aparece como o método menos utilizado, possivelmente por exigir mais etapas e não oferecer a mesma agilidade dos demais meios.
+
+De forma geral, observa-se que **a diferença entre os percentuais é pequena**, evidenciando que a plataforma **oferece boa diversidade de opções de pagamento**, atendendo a **diferentes perfis e níveis de digitalização dos clientes**.  
+Essa pluralidade é um ponto positivo, pois **reduz barreiras na finalização da compra** e contribui para **melhorar a experiência do usuário e a taxa de conversão**.
