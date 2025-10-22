@@ -98,3 +98,23 @@ Além disso, recomenda-se a análise do **perfil de ex-assinantes** para identif
 
 Em síntese, o indicador de assinatura é um ponto-chave para o **crescimento sustentável da base de clientes** e para **aumentar a previsibilidade da receita recorrente**.
 
+### Total de Vendas por Tamanho
+
+O **gráfico de Total de Vendas por Tamanho** evidencia uma clara **preferência dos consumidores pelo tamanho M (médio)**, que concentra **1.755 compras**, representando a maior fatia das vendas. Em seguida, aparecem os tamanhos **L (grande)** com **1.053 vendas**, **S (pequeno)** com **663**, e por fim o **SL (plus size)** com **429 compras**.  
+
+Essa distribuição sugere que os **produtos de tamanho médio** atendem à maior parte do público-alvo, refletindo um **perfil de consumo predominantemente dentro da média de medidas padrão**. Entretanto, o volume considerável nas categorias **L e S** indica que há **diversidade corporal significativa** entre os clientes, o que reforça a importância de **manter um portfólio equilibrado de tamanhos**.  
+
+O baixo número de compras na categoria **SL (plus size)** pode apontar para **duas possibilidades**: uma **demanda reprimida** — ou seja, clientes que desejam comprar, mas encontram **pouca oferta ou variedade de modelos** —, ou **baixa atratividade de design e disponibilidade** para esse público.  
+Assim, recomenda-se **avaliar o estoque e o mix de produtos plus size**, bem como **campanhas segmentadas** voltadas a esse grupo, ampliando o alcance de mercado e promovendo **inclusão** na oferta.  
+
+A **segunda página do dashboard** apresenta uma visão complementar da análise, destacando aspectos diretamente relacionados às **transações e comportamento de compra**.  
+Nela, são exibidos **gráficos sobre o percentual de desconto aplicado**, **métodos de pagamento utilizados** e o **total de itens vendidos**, permitindo compreender de forma mais ampla **como os consumidores realizam suas compras**.
+
+<div align="center">
+
+<img src="imagens\imagem2.png.png" alt="Dashboard Power BI – Página 2: Descontos, Pagamentos e Itens Vendidos" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
+
+<p><i>Figura 2 – Segunda página do Dashboard Power BI com gráficos de percentual de desconto aplicado, métodos de pagamento e total de itens vendidos.</i></p>
+
+</div>
+
