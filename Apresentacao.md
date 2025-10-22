@@ -65,6 +65,8 @@ Ela apresenta cartões segmentados por faixa etária dos clientes, além de grá
 
 Iniciando a análise, tem-se o visual do Power BI apresentando informações que permitem compreender o perfil demográfico e comportamental dos consumidores , facilitando a identificação de padrões iniciais de compras e preferências.
 
+#### Cartões
+
 Os **cartões do dashboard** apresentam o **total de clientes distribuídos por faixa etária**.  
 Observa-se que a **faixa de 18 a 25 anos** concentra o **maior número de clientes**, totalizando **571 pessoas**.  
 É importante destacar que essa é também a **faixa etária com maior amplitude (8 anos)**, o que pode ter contribuído para o número mais elevado de registros.
@@ -76,8 +78,23 @@ As faixas de **31 a 35 anos (364 clientes)** e **36 a 40 anos (361 clientes)** m
 
 De forma geral, nota-se uma **maior concentração de clientes nas idades jovens e intermediárias**, com uma **tendência de queda gradual** nas faixas etárias mais elevadas.
 
+#### Percentual de Gênero
+
 O **primeiro gráfico** apresenta a **distribuição percentual de clientes por gênero**, revelando que **68% dos compradores são homens** e **32% são mulheres**.  
 
 Essa diferença indica uma **maior predominância do público masculino** entre os consumidores, sugerindo a oportunidade de **analisar as preferências desse grupo** para aprimorar a experiência de compra e potencializar as vendas.  
 
 Ao mesmo tempo, o dado também destaca a importância de **investigar possíveis barreiras** que estejam impactando a participação feminina, de forma a **desenvolver estratégias mais inclusivas** e **estimular o engajamento do público feminino** na plataforma.
+
+#### Status de Assinatura
+
+O **gráfico de Status de Assinatura** revela que apenas **27% dos clientes possuem assinatura ativa**, enquanto **73% não são assinantes**.  
+
+Esse resultado evidencia uma **oportunidade significativa de expansão do programa de assinaturas**. Para o grupo atual de assinantes, é essencial reforçar **ações de fidelização**, como a oferta de **benefícios exclusivos**, **programas de pontos**, **descontos progressivos** e **acesso antecipado a lançamentos**, garantindo a **manutenção do vínculo**.  
+
+Por outro lado, a alta proporção de não assinantes indica a necessidade de **estratégias de conversão direcionadas**, como campanhas que **destaquem vantagens tangíveis da assinatura** (ex.: economia, conveniência, entrega rápida, benefícios personalizados).  
+
+Além disso, recomenda-se a análise do **perfil de ex-assinantes** para identificar motivos de cancelamento — como preço, falta de uso ou benefícios pouco atrativos —, possibilitando a criação de **ações de reativação** mais eficazes.  
+
+Em síntese, o indicador de assinatura é um ponto-chave para o **crescimento sustentável da base de clientes** e para **aumentar a previsibilidade da receita recorrente**.
+
