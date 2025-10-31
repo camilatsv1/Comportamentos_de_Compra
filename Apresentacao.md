@@ -149,3 +149,17 @@ Entre os itens menos vendidos estão **jeans (124)**, **mochilas (143)** e **luv
 
 De forma geral, os resultados indicam que os clientes **mantêm uma grande diversidade em suas escolhas de compra**, o que pode refletir um **mix de produtos equilibrado e bem posicionado**.  
 Esse comportamento diversificado reforça a importância de **manter estoques bem distribuídos entre as categorias**, garantindo que a plataforma continue atendendo às **preferências de diferentes perfis de consumidores**.
+
+A **terceira página do dashboard** aprofunda a análise do **comportamento de compra dos clientes**, oferecendo uma visão detalhada sobre **frequência de compras, tipos de envio utilizados e histórico de compras anteriores**.  
+Esses indicadores permitem compreender **com que regularidade os consumidores realizam novas aquisições**, além de identificar suas **preferências logísticas e padrões de fidelização**.  
+
+Os visuais dessa seção incluem **tabelas e gráficos percentuais** que facilitam a comparação entre grupos de clientes, revelando **tendências de recompra**, **hábitos de consumo recorrente** e **métodos de entrega mais utilizados**.  
+Essas informações são fundamentais para **ajustar estratégias de retenção, aprimorar o serviço de entrega** e **otimizar campanhas de recompra e assinatura**, fortalecendo o relacionamento com o cliente.
+
+<div align="center">
+
+<img src="imagens\imagem3.png.png" alt="Dashboard Power BI – Página 3: Frequência de compras, tipos de envio e histórico de compras anteriores" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
+
+<p><i>Figura 3 – Terceira página do Dashboard Power BI com gráficos de percentual de frequência de compras, totais de tipos de envio e contagem de clientes por compras anteriores.</i></p>
+
+</div>
