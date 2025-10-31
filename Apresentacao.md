@@ -137,3 +137,15 @@ Por fim, a **transferência bancária (15,69%)** aparece como o método menos ut
 
 De forma geral, observa-se que **a diferença entre os percentuais é pequena**, evidenciando que a plataforma **oferece boa diversidade de opções de pagamento**, atendendo a **diferentes perfis e níveis de digitalização dos clientes**.  
 Essa pluralidade é um ponto positivo, pois **reduz barreiras na finalização da compra** e contribui para **melhorar a experiência do usuário e a taxa de conversão**.
+
+### Total de Itens Vendidos
+
+O gráfico de **Total de Itens Vendidos** evidencia uma **distribuição equilibrada entre diversas categorias de produtos**, mostrando que os clientes apresentam **hábitos de compra variados e um interesse amplo pelo portfólio da loja**.  
+
+Os itens mais vendidos foram **blusas, joias e calças**, cada um com **171 vendas**, indicando que o público tem preferência tanto por **vestuário casual** quanto por **acessórios de maior valor agregado**. Logo em seguida aparecem **camisas (169)** e **vestidos (166)**, reforçando a predominância de produtos de **uso cotidiano e de moda versátil**.  
+
+Na faixa intermediária, destacam-se **suéteres (164)**, **jaquetas (163)** e **itens complementares** como **cintos, casacos e óculos de sol (161 cada)**, além de **sandálias (160)** e **meias (159)**, o que demonstra que **as compras não se concentram apenas em um tipo de produto, mas se estendem a diferentes estilos e necessidades**.  
+Entre os itens menos vendidos estão **jeans (124)**, **mochilas (143)** e **luvas (140)**, sugerindo **menor demanda ou menor variedade de oferta nessas categorias**.
+
+De forma geral, os resultados indicam que os clientes **mantêm uma grande diversidade em suas escolhas de compra**, o que pode refletir um **mix de produtos equilibrado e bem posicionado**.  
+Esse comportamento diversificado reforça a importância de **manter estoques bem distribuídos entre as categorias**, garantindo que a plataforma continue atendendo às **preferências de diferentes perfis de consumidores**.
