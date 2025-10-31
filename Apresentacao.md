@@ -164,6 +164,8 @@ Essas informações são fundamentais para **ajustar estratégias de retenção,
 
 </div>
 
+### Percentual de Frequência de Compras
+
 O **primeiro gráfico da terceira página** apresenta o **percentual de frequência de compras** dos clientes.  
 Observa-se que a **maior frequência ocorre a cada 3 meses (14,97%)**, seguida das compras **anuais (14,67%)**.  
 
@@ -173,3 +175,14 @@ As **menores frequências** correspondem às compras **quinzenais (fortnightly, 
 Apesar de pequenas inconsistências nas nomenclaturas e percentuais exibidos no gráfico, **a distribuição geral é bastante equilibrada**, sugerindo que o público realiza compras em **intervalos variados**, sem uma concentração significativa em apenas uma frequência.  
 Essa informação é relevante para **planejar campanhas de marketing, promoções e estratégias de retenção**, de acordo com os diferentes padrões de compra.
 
+### Totais de Tipos de Envio
+
+O **segundo gráfico da terceira página** apresenta os **totais de tipos de envio utilizados pelos clientes**.  
+Observa-se que o **frete grátis** é o mais utilizado, com **675 registros**, o que pode estar relacionado a **benefícios oferecidos a clientes assinantes** ou **promoções com cupons especiais**.  
+Logo em seguida aparece o **envio padrão (standard)**, com **654 entregas**, indicando que, mesmo com opções pagas, muitos consumidores ainda optam por modalidades convencionais e acessíveis.  
+
+No grupo intermediário, destacam-se a **retirada na loja (650)** e o **envio aéreo para o dia seguinte (next day air, 648)** — opções que representam **diferentes perfis de comportamento**: clientes que preferem **conveniência e agilidade**, e outros que buscam **rapidez imediata na entrega**.  
+Os tipos **express (646)** e **envio em 2 dias (627)** foram os menos utilizados, embora a diferença percentual entre eles e os demais seja pequena.  
+
+De forma geral, o gráfico revela um **equilíbrio na utilização dos tipos de envio**, o que reforça a **diversidade de opções disponíveis na plataforma**.  
+Esse equilíbrio indica que os clientes **valorizam tanto a economia quanto a flexibilidade de escolha**, permitindo à empresa **ajustar suas políticas logísticas** para atender a diferentes perfis de consumo e preferências de entrega.
