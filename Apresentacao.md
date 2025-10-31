@@ -163,3 +163,13 @@ Essas informações são fundamentais para **ajustar estratégias de retenção,
 <p><i>Figura 3 – Terceira página do Dashboard Power BI com gráficos de percentual de frequência de compras, totais de tipos de envio e contagem de clientes por compras anteriores.</i></p>
 
 </div>
+
+O **primeiro gráfico da terceira página** apresenta o **percentual de frequência de compras** dos clientes.  
+Observa-se que a **maior frequência ocorre a cada 3 meses (14,97%)**, seguida das compras **anuais (14,67%)**.  
+
+No grupo intermediário, com percentuais próximos aos mais frequentes, estão as compras **trimestrais (quarterly, 14,44%)**, **mensais (14,18%)** e **quinzenais (14,03%)**.  
+As **menores frequências** correspondem às compras **quinzenais (fortnightly, 13,90%)** e **semanais (13,82%)**, indicando que **os clientes que compram com maior regularidade representam o menor grupo**.  
+
+Apesar de pequenas inconsistências nas nomenclaturas e percentuais exibidos no gráfico, **a distribuição geral é bastante equilibrada**, sugerindo que o público realiza compras em **intervalos variados**, sem uma concentração significativa em apenas uma frequência.  
+Essa informação é relevante para **planejar campanhas de marketing, promoções e estratégias de retenção**, de acordo com os diferentes padrões de compra.
+
