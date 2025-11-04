@@ -217,3 +217,10 @@ Esses indicadores possibilitam compreender **como as estações influenciam o co
 <p><i>Figura 4 – Quarta página do Dashboard Power BI com gráficos de percentual de compras por estação do ano, total de compra por categoria e distribuição geográfica das compras.</i></p>
 
 </div>
+
+### Percentual de Compras por Estação
+
+O **gráfico percentual de compras por estação** evidencia **um equilíbrio notável na quantidade de compras ao longo das estações do ano**, com **percentuais bastante próximos entre si**.  
+A **primavera** se destaca como o período de maior volume de compras, representando **25,62% do total**, seguida de **outono** com **25%**, **inverno** com **24,9%** e, por fim, **verão** com **24,49%**, apresentando a menor participação.  
+
+Esses resultados indicam que os **clientes mantêm um comportamento de compra constante durante todo o ano**, sem fortes variações sazonais, o que representa **um ponto positivo para a plataforma**, pois demonstra **estabilidade nas vendas e engajamento contínuo do público consumidor**.  
