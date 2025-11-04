@@ -224,3 +224,12 @@ O **gráfico percentual de compras por estação** evidencia **um equilíbrio no
 A **primavera** se destaca como o período de maior volume de compras, representando **25,62% do total**, seguida de **outono** com **25%**, **inverno** com **24,9%** e, por fim, **verão** com **24,49%**, apresentando a menor participação.  
 
 Esses resultados indicam que os **clientes mantêm um comportamento de compra constante durante todo o ano**, sem fortes variações sazonais, o que representa **um ponto positivo para a plataforma**, pois demonstra **estabilidade nas vendas e engajamento contínuo do público consumidor**.  
+
+### Total de Compras por Categoria
+
+O **gráfico de total de compras por categoria** revela **um forte desequilíbrio na distribuição das vendas entre as categorias disponíveis na plataforma**.  
+A categoria **roupa (clothing)** se destaca com **1.737 vendas**, representando **a maior participação no total de compras**.  
+Em seguida, observa-se uma **queda expressiva** nas demais categorias, com **acessórios (accessories)** totalizando **1.240 vendas**, **calçados (footwear)** com **599 compras** e, por fim, **agasalhos (outerwear)** aparecendo como **a categoria menos adquirida**, com apenas **324 vendas**.  
+
+Esses resultados evidenciam a **necessidade de ações estratégicas de marketing e promoções direcionadas** para impulsionar as categorias com desempenho mais discreto.  
+Ao mesmo tempo, os dados permitem **identificar as categorias com maior demanda**, fornecendo **subsídios importantes para o planejamento de estoque** e **gestão de produtos conforme o comportamento do consumidor**.  
