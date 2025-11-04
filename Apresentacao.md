@@ -186,3 +186,34 @@ Os tipos **express (646)** e **envio em 2 dias (627)** foram os menos utilizados
 
 De forma geral, o gráfico revela um **equilíbrio na utilização dos tipos de envio**, o que reforça a **diversidade de opções disponíveis na plataforma**.  
 Esse equilíbrio indica que os clientes **valorizam tanto a economia quanto a flexibilidade de escolha**, permitindo à empresa **ajustar suas políticas logísticas** para atender a diferentes perfis de consumo e preferências de entrega.
+
+### Contagem de Clientes por Compras Anteriores
+
+O **gráfico de contagem de clientes por compras anteriores** apresenta **variações constantes na quantidade de consumidores que retornam à plataforma para novas aquisições**.  
+Observa-se que os valores **oscilam entre 58 e 97 clientes**, demonstrando **uma base de consumidores recorrentes**, porém com **comportamento de recompra irregular**.  
+
+O **maior pico ocorre próximo a 30 compras anteriores**, com **97 clientes**, enquanto o **menor valor aparece em torno de 50 compras anteriores**, com **58 clientes**.  
+Essa variação sugere que, embora exista **um grupo fiel de consumidores que realiza compras de forma recorrente**, há também **flutuações significativas** que podem estar associadas a fatores como **campanhas promocionais**, **sazonalidade** ou **mudanças nas condições de compra**.  
+
+As **quedas acentuadas entre determinados pontos** evidenciam **possíveis perdas de clientes ao longo do tempo**, indicando a necessidade de **estratégias voltadas à retenção e fidelização**, como:  
+
+* **Programas de benefícios e recompensas**;  
+* **Descontos progressivos**;  
+* **Comunicação personalizada e segmentada**.  
+
+De forma geral, o gráfico mostra **uma base de clientes com bom potencial de fidelização**, mas que ainda requer **ações consistentes para estabilizar e ampliar o número de consumidores recorrentes**.  
+
+
+A **quarta e última página do dashboard** encerra a análise sobre o **comportamento de compra dos clientes**, apresentando uma visão consolidada dos **percentuais de compras por estação do ano**, **total de compra por categoria** e **distribuição geográfica das compras**.  
+
+Esses indicadores possibilitam compreender **como as estações influenciam o comportamento de consumo**, **quais categorias de produtos se destacam nas preferências dos clientes** e **quais localidades concentram o maior volume de compras**, oferecendo **subsídios valiosos para estratégias de marketing sazonais** e **decisões de estoque mais assertivas**.  
+
+
+
+<div align="center">
+
+<img src="imagens\imagem4.png.png" alt="Dashboard Power BI – Página 4: Percentuais de compras por estação do ano, totais de compras por categoria e distribuição geográfica das compras" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
+
+<p><i>Figura 4 – Quarta página do Dashboard Power BI com gráficos de percentual de compras por estação do ano, total de compra por categoria e distribuição geográfica das compras.</i></p>
+
+</div>
