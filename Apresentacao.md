@@ -249,3 +249,24 @@ Esses estados podem refletir **desafios logísticos**, **menor densidade populac
 
 Em **síntese**, a análise demonstra uma **distribuição relativamente equilibrada das vendas**, com **predominância nas regiões centrais e costeiras do leste**, reforçando a importância de **estratégias regionais de engajamento e fidelização** para sustentar o crescimento em todo o território.
 
+### Conclusão e Principais Descobertas do Dashboard de Comportamento de Compras
+
+A análise desenvolvida a partir do **Dashboard Power BI** permitiu compreender de forma ampla e estratégica o **perfil demográfico, comportamental e geográfico** dos clientes, além de identificar **tendências de consumo**, **padrões de recompra** e **preferências de compra** dentro da plataforma.
+
+De forma geral, observou-se que o **público predominante é jovem e masculino**, com destaque para a faixa etária de **18 a 25 anos** e **68% de participação masculina**, indicando um nicho consolidado, mas com **oportunidades de expansão entre o público feminino**.
+
+O **status de assinatura** evidenciou um ponto crítico de crescimento: apenas **27% dos clientes possuem assinatura ativa**, o que reforça o potencial de **estratégias de conversão e fidelização**, por meio de **benefícios exclusivos, programas de pontos e campanhas de retenção**.
+
+Em relação às **vendas por tamanho**, destacou-se o tamanho **M (médio)** como o mais vendido, revelando uma **tendência dominante no padrão corporal dos consumidores**, enquanto o **segmento plus size (SL)** apresentou baixa adesão — cenário que pode representar **demanda reprimida ou oportunidades de expansão de portfólio**.
+
+Nos **métodos de pagamento**, verificou-se uma **diversificação equilibrada**, com leve predominância do **PayPal (17,36%)**, o que demonstra a **maturidade digital dos consumidores** e a **eficiência da plataforma em oferecer múltiplas formas de pagamento**.
+
+Os dados de **frequência de compras** e **histórico de recompra** revelaram uma base de **clientes recorrentes**, porém com **oscilações no comportamento de recompra**, reforçando a importância de **estratégias de engajamento contínuo** e **ações personalizadas** para retenção.
+
+A análise de **tipos de envio** mostrou **equilíbrio entre as modalidades**, com **frete grátis (675)** e **envio padrão (654)** se destacando — evidenciando que os clientes valorizam **custo-benefício e flexibilidade logística**.
+
+Nas dimensões **sazonais e geográficas**, observou-se **equilíbrio de compras ao longo das estações do ano**, indicando **estabilidade nas vendas durante todo o período**, e uma **distribuição geográfica ampla**, com destaque para **Montana, Califórnia, Idaho e Illinois** como principais polos de consumo.  
+Essa dispersão territorial reforça o potencial de **ações regionais direcionadas** e a necessidade de **estratégias localizadas de marketing**.
+
+Em síntese, o **dashboard construído no Power BI** mostrou-se uma ferramenta poderosa para **transformar dados em insights acionáveis**, permitindo identificar **oportunidades de crescimento, otimização de campanhas e aprimoramento da experiência do cliente**.  
+Os resultados obtidos reforçam a importância do uso de **análises preditivas, segmentações inteligentes e monitoramento contínuo** para sustentar o crescimento e consolidar o relacionamento com o consumidor no ambiente digital.
