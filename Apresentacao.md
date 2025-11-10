@@ -236,8 +236,6 @@ Ao mesmo tempo, os dados permitem **identificar as categorias com maior demanda*
 
 ### Distribuição Geográfica das Compras
 
-## 🗺️ Distribuição Geográfica das Compras
-
 O gráfico de **distribuição geográfica das compras** apresenta uma ampla abrangência territorial, com **variações moderadas no volume de vendas entre os estados**, evidenciando tanto **mercados consolidados** quanto **áreas com potencial de expansão**.
 
 Os **maiores volumes de compra** foram registrados em **Montana (96)**, **Califórnia (95)**, **Idaho (93)** e **Illinois** (92)**, seguidos de **Alabama (89)**, **Minnesota (88)**, **Nebraska (87)**, **Nevada (87)**, **Nova York (87)**, **Delawere (86)**, **Maryland (86)** e **Vermont (85)**.  
