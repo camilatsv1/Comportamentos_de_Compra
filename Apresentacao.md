@@ -233,3 +233,21 @@ Em seguida, observa-se uma **queda expressiva** nas demais categorias, com **ace
 
 Esses resultados evidenciam a **necessidade de ações estratégicas de marketing e promoções direcionadas** para impulsionar as categorias com desempenho mais discreto.  
 Ao mesmo tempo, os dados permitem **identificar as categorias com maior demanda**, fornecendo **subsídios importantes para o planejamento de estoque** e **gestão de produtos conforme o comportamento do consumidor**.  
+
+### Distribuição Geográfica das Compras
+
+## 🗺️ Distribuição Geográfica das Compras
+
+O gráfico de **distribuição geográfica das compras** apresenta uma ampla abrangência territorial, com **variações moderadas no volume de vendas entre os estados**, evidenciando tanto **mercados consolidados** quanto **áreas com potencial de expansão**.
+
+Os **maiores volumes de compra** foram registrados em **Montana (96)**, **Califórnia (95)**, **Idaho (93)** e **Illinois** (92)**, seguidos de **Alabama (89)**, **Minnesota (88)**, **Nebraska (87)**, **Nevada (87)**, **Nova York (87)**, **Delawere (86)**, **Maryland (86)** e **Vermont (85)**.  
+Esses estados se destacam como **principais polos de consumo**, representando **mercados estratégicos** para manter e aprofundar ações de **fidelização** e **retenção de clientes**.
+
+Na **faixa intermediária**, aparecem **Louisiana (84)**, **North Dakota (83)**, **Missouri (81)**, **New Mexico (81)**, **West Virginia (81)**, **Mississippi (80)**, **Arkansas (79)** ,**Geórgia (79)**, **Indiana (79)**, **Kentucky (79)**, **Connecticut (78)**, **North Carolina (78)**, **Maine (77)**, **Ohio (77)**, **Tennessee (77)**, **Texas (77)**, **Virgínia (77)** e **South Carolina (76)**.  
+Essas regiões indicam **mercados estáveis**, com **boas oportunidades de crescimento** mediante **campanhas regionais**, **ofertas segmentadas** e **fortalecimento da presença digital**.
+
+As **menores participações** foram observadas em **Colorado (75)**, **Oklahoma (75)**, **Wisconsin (75)**, **Oregon (74)**, **Pensilvânia (74)**, **Michigan (73)**, **Washington (73)**, **Alaska (72)**, **Massachusetts (72)**, **New Hampshire (71)**, **Utah (71)**, **Wyoming (71)**, **Dakota do Norte (70)**, **Iowa (69)**, **Flórida (78)**, **New Jersey (67)**, **Arizona (65)**, **Havaí (65)**, **Kansas (63)** e **Rhode Island (63)**.  
+Esses estados podem refletir **desafios logísticos**, **menor densidade populacional** ou **menor exposição da marca**, sendo ideais para ações de **marketing local**, **expansão de alcance** e **testes de campanhas regionais**.
+
+Em **síntese**, a análise demonstra uma **distribuição relativamente equilibrada das vendas**, com **predominância nas regiões centrais e costeiras do leste**, reforçando a importância de **estratégias regionais de engajamento e fidelização** para sustentar o crescimento em todo o território.
+
