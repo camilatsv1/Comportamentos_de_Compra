@@ -1,5 +1,3 @@
-# Comportamentos_de_Compra
-
 # Comportamentos de Compras
 
 ## Sobre o Projeto
