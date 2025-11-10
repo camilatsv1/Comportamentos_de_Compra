@@ -82,11 +82,11 @@ Esse desequilíbrio sugere maior foco de marketing em categorias menos vendidas 
 
 13. Distribuição Geográfica das Compras
 
-Os maiores volumes de compras foram registrados em Montana (96), Califórnia (95), Idaho (93) e Alabama (92), seguidos por Minnesota (89), Nebraska (88), New York (87), Delaware (87), Maryland (87), Vermont (86), Louisiana (86) e South Dakota (85).
+Os maiores volumes de compras foram registrados **Montana (96)**, **Califórnia (95)**, **Idaho (93)** e **Illinois** (92)**, seguidos de **Alabama (89)**, **Minnesota (88)**, **Nebraska (87)**, **Nevada (87)**, **Nova York (87)**, **Delawere (86)**, **Maryland (86)** e **Vermont (85)**.
 
-Os estados intermediários incluem New Mexico, West Virginia, Mississippi, Arkansas, Georgia, Indiana, Kentucky, Connecticut, North Carolina, Maine, Ohio, Tennessee, Texas e Virginia, com percentuais próximos.
+Os estados intermediários incluem **Louisiana (84)**, **North Dakota (83)**, **Missouri (81)**, **New Mexico (81)**, **West Virginia (81)**, **Mississippi (80)**, **Arkansas (79)** ,**Geórgia (79)**, **Indiana (79)**, **Kentucky (79)**, **Connecticut (78)**, **North Carolina (78)**, **Maine (77)**, **Ohio (77)**, **Tennessee (77)**, **Texas (77)**, **Virgínia (77)** e **South Carolina (76)**, com totais próximos.
 
-Já os menores volumes foram observados em South Carolina, Colorado, Oklahoma, Wisconsin, Oregon, Pennsylvania, Washington, Massachusetts, New Hampshire, Wyoming, Utah, Florida, Iowa, New Jersey, Arizona, Hawaii e Rhode Island.
+Já os menores volumes foram observados em **Colorado (75)**, **Oklahoma (75)**, **Wisconsin (75)**, **Oregon (74)**, **Pensilvânia (74)**, **Michigan (73)**, **Washington (73)**, **Alaska (72)**, **Massachusetts (72)**, **New Hampshire (71)**, **Utah (71)**, **Wyoming (71)**, **Dakota do Norte (70)**, **Iowa (69)**, **Flórida (78)**, **New Jersey (67)**, **Arizona (65)**, **Havaí (65)**, **Kansas (63)** e **Rhode Island (63)**.
 Esses locais representam oportunidades de expansão e fortalecimento da marca.
 
 ### Conclusão
