@@ -50,7 +50,7 @@ CALCULATE(
 
 Com as medidas criadas, iniciou-se a elaboração dos visuais de cartões que apresentam o total de clientes por faixa etária, permitindo compreender rapidamente a distribuição do público analisado.
 
-## Visualizar do Painel
+## Visualizaçao do Dashboard
 
 Abaixo está a primeira visualização desenvolvida no Power BI.
 Ela apresenta cartões segmentados por faixa etária dos clientes, além de gráficos de percentual de gênero , status de assinatura e total de vendas por tamanho de produto .
