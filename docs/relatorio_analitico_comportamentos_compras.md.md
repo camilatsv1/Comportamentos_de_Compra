@@ -268,5 +268,5 @@ A análise de **tipos de envio** mostrou **equilíbrio entre as modalidades**, c
 Nas dimensões **sazonais e geográficas**, observou-se **equilíbrio de compras ao longo das estações do ano**, indicando **estabilidade nas vendas durante todo o período**, e uma **distribuição geográfica ampla**, com destaque para **Montana, Califórnia, Idaho e Illinois** como principais polos de consumo.  
 Essa dispersão territorial reforça o potencial de **ações regionais direcionadas** e a necessidade de **estratégias localizadas de marketing**.
 
-Em síntese, o **dashboard construído no Power BI** mostrou-se uma ferramenta poderosa para **transformar dados em insights acionáveis**, permitindo identificar **oportunidades de crescimento, otimização de campanhas e aprimoramento da experiência do cliente**.  
-Os resultados obtidos reforçam a importância do uso de **análises preditivas, segmentações inteligentes e monitoramento contínuo** para sustentar o crescimento e consolidar o relacionamento com o consumidor no ambiente digital.
+Em resumo, o **dashboard construído no Power BI** mostrou-se uma ferramenta poderosa para **transformar dados em insights acionáveis**, permitindo identificar **oportunidades de crescimento, otimização de campanhas e aprimoramento da experiência do cliente**.  
+
