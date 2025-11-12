@@ -57,7 +57,7 @@ Ela apresenta cartões segmentados por faixa etária dos clientes, além de grá
 
 <div align="center">
 
-<img src="C:\Users\Cliente\Downloads\Camila\Comportamentos_de_Compra\imagens\imagem1.png.png" alt="Dashboard Power BI – Comportamentos de Compra" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
+<img src="imagens\imagem1.png.png" alt="Dashboard Power BI – Comportamentos de Compra" width="800px" style="border-radius:10px; box-shadow:0px 0px 10px rgba(0,0,0,0.15);" />
 
 <p><i>Figura 1 – Visual principal do Dashboard Power BI com segmentação por faixa etária, gênero, status de assinatura e vendas por tamanho.</i></p>
 
